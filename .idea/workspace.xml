@@ -9,25 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9660d99f-6197-4530-9f4b-d60510cd427d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ServletNew_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ServletNew_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/PessoaServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="9660d99f-6197-4530-9f4b-d60510cd427d" name="Changes" comment="commit initial">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/TutorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/PessoaServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/controller/PetServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senai/dev/servletnew/model/Tutor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +64,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.senai.dev.servletnew.controller" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.83" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
@@ -172,8 +166,18 @@
       <option name="presentableId" value="Default" />
       <updated>1666134971712</updated>
       <workItem from="1666134972923" duration="7111000" />
-      <workItem from="1666230208870" duration="2140000" />
+      <workItem from="1666230208870" duration="2538000" />
+      <workItem from="1666395464069" duration="5312000" />
+      <workItem from="1666443865738" duration="3185000" />
     </task>
+    <task id="LOCAL-00001" summary="commit initial">
+      <created>1666232539194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666232539194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,5 +193,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit initial" />
   </component>
 </project>
